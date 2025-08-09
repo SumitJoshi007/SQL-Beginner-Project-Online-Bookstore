@@ -66,17 +66,3 @@ USE BookstoreDB;
 3. Run the CREATE TABLE statements from the schema.sql file
 4. Insert sample data from data.sql
 5. Run the queries from queries.sql to test
-
-
-
-
-
-
-
-
-🎯 Learning Outcomes
-By completing this project, you'll learn:
-  - How to create and manage databases
-  - How to join multiple tables
-  - How to use aggregate functions for reporting
-  - How to filter and sort results
