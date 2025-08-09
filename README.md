@@ -67,7 +67,7 @@ USE BookstoreDB;
 4. Insert sample data from data.sql
 5. Run the queries from queries.sql to test
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Learning Outcomes
 By completing this project, you'll learn:
